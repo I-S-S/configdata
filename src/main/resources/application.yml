@@ -1,0 +1,4 @@
+# Add comments
+
+spring.cloud.config.server.git.uri=https://github.com/isosa-xk/configdata.git
+server.port=8001

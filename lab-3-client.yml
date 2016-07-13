@@ -1,0 +1,8 @@
+#This is Yet another markup language file (a properties file)
+#This kind of file can hold many files in it, just separated by ---
+
+
+lucky-world=Irish
+Rabbit-Food=Serendipity
+
+
