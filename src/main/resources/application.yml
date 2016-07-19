@@ -1,1 +1,11 @@
 # If used, this would override application.properties
+---
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/isosa-xk/configdata.git
+          searchPaths: ConfigData
+server:
+  port: 8001
