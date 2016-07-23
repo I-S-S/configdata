@@ -1,5 +1,6 @@
 ---
 spring:
-  profiles: wordConfig
+  application:
+    name: wordConfig
 luckyWord: Irish
 preamble: Serendipity
